@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/post/2017-04-19/</loc>
+    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/post/2017-04-18-seminar/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/</loc>
+    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/page/cfd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/tags/event/</loc>
+    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/page/member2017/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/page/obog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/post/</loc>
+    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/tags/research/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/tags/seminar/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/tags/</loc>
+    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/page/system-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ishigakim.github.io/hugo-sample/tags/%E9%99%A2%E8%A9%A6/</loc>
+    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
