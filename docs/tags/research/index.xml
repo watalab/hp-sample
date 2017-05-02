@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Wata Lab.</title>
-    <link>https://ishigakim.github.io/hugo-sample/tags/research/</link>
+    <link>https://watalab.github.io/hp-sample/tags/research/</link>
     <description>Recent content in Research on Wata Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>admin@u-fukui (管理人)</managingEditor>
-    <webMaster>admin@u-fukui (管理人)</webMaster>
+    <managingEditor>admin@u-fukui (Owner)</managingEditor>
+    <webMaster>admin@u-fukui (Owner)</webMaster>
     <lastBuildDate>Tue, 18 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ishigakim.github.io/hugo-sample/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://watalab.github.io/hp-sample/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2017年度ゼミ予定</title>
-      <link>https://ishigakim.github.io/hugo-sample/post/2017-04-18-seminar/</link>
+      <link>https://watalab.github.io/hp-sample/post/2017-04-18-seminar/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <author>admin@u-fukui (管理人)</author>
-      <guid>https://ishigakim.github.io/hugo-sample/post/2017-04-18-seminar/</guid>
+      <author>admin@u-fukui (Owner)</author>
+      <guid>https://watalab.github.io/hp-sample/post/2017-04-18-seminar/</guid>
       <description>前期ゼミ予定 毎週火曜5限</description>
     </item>
     

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Wata Lab.</title>
-    <link>https://ishigakim.github.io/hugo-sample/page/</link>
+    <link>https://watalab.github.io/hp-sample/page/</link>
     <description>Recent content in Pages on Wata Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>admin@u-fukui (管理人)</managingEditor>
-    <webMaster>admin@u-fukui (管理人)</webMaster>
+    <managingEditor>admin@u-fukui (Owner)</managingEditor>
+    <webMaster>admin@u-fukui (Owner)</webMaster>
     
-	<atom:link href="https://ishigakim.github.io/hugo-sample/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://watalab.github.io/hp-sample/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CFD</title>
-      <link>https://ishigakim.github.io/hugo-sample/page/cfd/</link>
+      <link>https://watalab.github.io/hp-sample/page/cfd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>admin@u-fukui (管理人)</author>
-      <guid>https://ishigakim.github.io/hugo-sample/page/cfd/</guid>
+      <author>admin@u-fukui (Owner)</author>
+      <guid>https://watalab.github.io/hp-sample/page/cfd/</guid>
       <description> CFD </description>
     </item>
     
     <item>
       <title>Member</title>
-      <link>https://ishigakim.github.io/hugo-sample/page/member2017/</link>
+      <link>https://watalab.github.io/hp-sample/page/member2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>admin@u-fukui (管理人)</author>
-      <guid>https://ishigakim.github.io/hugo-sample/page/member2017/</guid>
+      <author>admin@u-fukui (Owner)</author>
+      <guid>https://watalab.github.io/hp-sample/page/member2017/</guid>
       <description> 教員 教授　 Professor  e-mail: 一言  特命准教授 学生 M2 M2 M1 </description>
     </item>
     
     <item>
       <title>OB/OG</title>
-      <link>https://ishigakim.github.io/hugo-sample/page/obog/</link>
+      <link>https://watalab.github.io/hp-sample/page/obog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>admin@u-fukui (管理人)</author>
-      <guid>https://ishigakim.github.io/hugo-sample/page/obog/</guid>
+      <author>admin@u-fukui (Owner)</author>
+      <guid>https://watalab.github.io/hp-sample/page/obog/</guid>
       <description> 2016年度 </description>
     </item>
     
     <item>
       <title>system analysis</title>
-      <link>https://ishigakim.github.io/hugo-sample/page/system-analysis/</link>
+      <link>https://watalab.github.io/hp-sample/page/system-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>admin@u-fukui (管理人)</author>
-      <guid>https://ishigakim.github.io/hugo-sample/page/system-analysis/</guid>
+      <author>admin@u-fukui (Owner)</author>
+      <guid>https://watalab.github.io/hp-sample/page/system-analysis/</guid>
       <description> システム解析 </description>
     </item>
     
