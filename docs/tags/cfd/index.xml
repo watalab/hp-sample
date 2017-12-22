@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Wata Lab.</title>
-    <link>https://watalab.github.io/hp-sample/page/</link>
-    <description>Recent content in Pages on Wata Lab.</description>
+    <title>Cfd on Wata Lab.</title>
+    <link>https://watalab.github.io/hp-sample/tags/cfd/</link>
+    <description>Recent content in Cfd on Wata Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ishigaki@u-fukui (Owner)</managingEditor>
     <webMaster>ishigaki@u-fukui (Owner)</webMaster>
     
-	<atom:link href="https://watalab.github.io/hp-sample/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://watalab.github.io/hp-sample/tags/cfd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,42 +22,6 @@
 本研究室では、Level-set法を用いた二相流数値解析に よって、浮遊液滴に見られる複雑な挙動を明らかにする事を目的としています。
 PTSの数値 原子炉において何らかの事故が発生し、高温高圧条件下にある圧力容器に非常用冷却水が注水されることで 発生する熱衝撃をPTS　(Pressurised Thermal Shock)と言い ます。PTSによって圧力容器壁面上のクラックに引張応力 が作用した時、圧力容器が破損する事が懸念されます。
 本研究室では、健全性評価のための構造解析に必要 な温度分布を、DESと呼ばれる乱流モデルを用いた熱水力数値解析をによって、比較的高精度・低コストで求める 事を目的としています。</description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://watalab.github.io/hp-sample/page/member2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
-      <guid>https://watalab.github.io/hp-sample/page/member2017/</guid>
-      <description> 教員 教授　 Professor  e-mail: 一言  特命准教授 学生 M2 M2 M1 </description>
-    </item>
-    
-    <item>
-      <title>OB/OG</title>
-      <link>https://watalab.github.io/hp-sample/page/obog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
-      <guid>https://watalab.github.io/hp-sample/page/obog/</guid>
-      <description> 2016年度 </description>
-    </item>
-    
-    <item>
-      <title>Recruit</title>
-      <link>https://watalab.github.io/hp-sample/page/recruit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
-      <guid>https://watalab.github.io/hp-sample/page/recruit/</guid>
-      <description> 卒業生の就職先 学生の進学先 </description>
-    </item>
-    
-    <item>
-      <title>system analysis</title>
-      <link>https://watalab.github.io/hp-sample/page/system-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
-      <guid>https://watalab.github.io/hp-sample/page/system-analysis/</guid>
-      <description> システム解析 </description>
     </item>
     
   </channel>
