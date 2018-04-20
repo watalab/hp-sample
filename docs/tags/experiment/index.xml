@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiment on Wata Lab.</title>
+    <link>https://watalab.github.io/hp-sample/tags/experiment/</link>
+    <description>Recent content in Experiment on Wata Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</managingEditor>
+    <webMaster>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</webMaster>
+    <lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://watalab.github.io/hp-sample/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>二相流可視化実験</title>
+      <link>https://watalab.github.io/hp-sample/post/2018-04-19-experiment/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
+      <guid>https://watalab.github.io/hp-sample/post/2018-04-19-experiment/</guid>
+      <description> 沸騰実験 学生実験として，加熱ピンによる沸騰可視化の実験を行いました。その様子が以下です。
+
+  </description>
+    </item>
+    
+  </channel>
+</rss>

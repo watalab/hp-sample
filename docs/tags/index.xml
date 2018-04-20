@@ -5,36 +5,36 @@
     <link>https://watalab.github.io/hp-sample/tags/</link>
     <description>Recent content in Tags on Wata Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>ishigaki@u-fukui (Owner)</managingEditor>
-    <webMaster>ishigaki@u-fukui (Owner)</webMaster>
-    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <managingEditor>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</managingEditor>
+    <webMaster>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</webMaster>
+    <lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://watalab.github.io/hp-sample/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cfd</title>
-      <link>https://watalab.github.io/hp-sample/tags/cfd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
-      <guid>https://watalab.github.io/hp-sample/tags/cfd/</guid>
+      <title>Experiment</title>
+      <link>https://watalab.github.io/hp-sample/tags/experiment/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
+      <guid>https://watalab.github.io/hp-sample/tags/experiment/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Event</title>
-      <link>https://watalab.github.io/hp-sample/tags/event/</link>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
-      <guid>https://watalab.github.io/hp-sample/tags/event/</guid>
+      <title>Lecture</title>
+      <link>https://watalab.github.io/hp-sample/tags/lecture/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
+      <guid>https://watalab.github.io/hp-sample/tags/lecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
       <link>https://watalab.github.io/hp-sample/tags/research/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/tags/research/</guid>
       <description></description>
     </item>
@@ -42,18 +42,9 @@
     <item>
       <title>Seminar</title>
       <link>https://watalab.github.io/hp-sample/tags/seminar/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/tags/seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>院試</title>
-      <link>https://watalab.github.io/hp-sample/tags/%E9%99%A2%E8%A9%A6/</link>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
-      <guid>https://watalab.github.io/hp-sample/tags/%E9%99%A2%E8%A9%A6/</guid>
       <description></description>
     </item>
     

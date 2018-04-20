@@ -5,8 +5,8 @@
     <link>https://watalab.github.io/hp-sample/page/</link>
     <description>Recent content in Pages on Wata Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>ishigaki@u-fukui (Owner)</managingEditor>
-    <webMaster>ishigaki@u-fukui (Owner)</webMaster>
+    <managingEditor>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</managingEditor>
+    <webMaster>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</webMaster>
     
 	<atom:link href="https://watalab.github.io/hp-sample/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,47 +15,56 @@
       <title>CFD</title>
       <link>https://watalab.github.io/hp-sample/page/cfd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/page/cfd/</guid>
       <description>CFDを用いた研究 本研究室ではCFD (Computational Fluid Dynamics 数値流体力学）のコードを用いて、様々な流動の研究を実施しています。
-レベルセット法を用いた浮遊液滴の数値解析 近年、液滴を静電場や超音波によって浮遊させる浮遊 液滴技術を、高融点材料の非接触熱物性測定や、分析 化学におけるサンプルの前処理等へ応用する事が期待 されています。しかし、液滴界面の大変形や液滴内外の 複雑な流動場形成などの非線形挙動が現れるため、技 術の確立には更なる研究が要されています。
+レベルセット法を用いた浮遊液滴の数値解析 近年、液滴を静電場や超音波によって浮遊させる浮遊 液滴技術を、高融点材料の非接触熱物性測定や、分析 化学におけるサンプルの前処理等へ応用する事が期待 されています。しかし、液滴界面の大変形や液滴内外の 複雑な流動場形成などの非線形挙動が現れるため、技 術の確立には更なる研究が要されています。
 本研究室では、Level-set法を用いた二相流数値解析に よって、浮遊液滴に見られる複雑な挙動を明らかにする事を目的としています。
-PTSの数値 原子炉において何らかの事故が発生し、高温高圧条件下にある圧力容器に非常用冷却水が注水されることで 発生する熱衝撃をPTS　(Pressurised Thermal Shock)と言い ます。PTSによって圧力容器壁面上のクラックに引張応力 が作用した時、圧力容器が破損する事が懸念されます。
-本研究室では、健全性評価のための構造解析に必要 な温度分布を、DESと呼ばれる乱流モデルを用いた熱水力数値解析をによって、比較的高精度・低コストで求める 事を目的としています。</description>
+PTSの数値解析 原子炉において何らかの事故が発生し、高温高圧条件下にある圧力容器に非常用冷却水が注水されることで発生する熱衝撃をPTS (Pressurised Thermal Shock)と言います。PTSによって圧力容器壁面上のクラックに引張応力が作用した時、圧力容器が破損する事が懸念されます。
+本研究室では、健全性評価のための構造解析に必要な温度分布を、DESと呼ばれる乱流モデルを用いた熱水力数値解析をによって、比較的高精度・低コストで求める事を目的としています。</description>
     </item>
     
     <item>
       <title>Member</title>
       <link>https://watalab.github.io/hp-sample/page/member2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/page/member2017/</guid>
       <description> 教員 教授　 Professor  e-mail: 一言  特命准教授 学生 M2 M2 M1 </description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>https://watalab.github.io/hp-sample/page/member2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
+      <guid>https://watalab.github.io/hp-sample/page/member2018/</guid>
+      <description>教員 渡辺　正（教授）  e-mail: twata@u-fukui  石垣　将宏（特命准教授）  e-mail: ishigaki@u-fukui 普段は日本原子力研究開発機構で研究していて，たまに敦賀に来て研究してます。専門は流体力学の数値計算ですが，熱水力の実験もやってます。  学生 坂本さん（M2） 近藤さん（B4） （注）お手数ですがメールアドレスにはu-fukuiの後に.ac.jpをつけてください。</description>
     </item>
     
     <item>
       <title>OB/OG</title>
       <link>https://watalab.github.io/hp-sample/page/obog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/page/obog/</guid>
-      <description> 2016年度 </description>
+      <description> 2017年度 西脇さん 山田さん 2016年度 山田さん </description>
     </item>
     
     <item>
       <title>Recruit</title>
       <link>https://watalab.github.io/hp-sample/page/recruit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/page/recruit/</guid>
-      <description> 卒業生の就職先 学生の進学先 </description>
+      <description> 卒業生の就職先  原子力規制庁 MHIニュークリアシステムズ・ソリューションエンジニアリング 原子力発電訓練センター   学生の進学先  福井大学大学院  </description>
     </item>
     
     <item>
-      <title>system analysis</title>
+      <title>System analysis</title>
       <link>https://watalab.github.io/hp-sample/page/system-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui (Owner)</author>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/page/system-analysis/</guid>
       <description> システム解析 </description>
     </item>
