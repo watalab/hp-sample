@@ -17,7 +17,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Wata Lab." />
 
-  <meta name="generator" content="Hugo 0.39" />
+  <meta name="generator" content="Hugo 0.30.2" />
   <link rel="canonical" href="https://watalab.github.io/page/cfd/" />
   <link rel="alternate" href="https://watalab.github.io/index.xml" type="application/rss+xml" title="Wata Lab.">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -74,9 +74,9 @@
               <a class="navlinks-parent" href="javascript:void(0)">Research</a>
               <div class="navlinks-children">
                 
-                  <a href="https://watalab.github.io/hp-sample/page/cfd">CFD</a>
-                
                   <a href="https://watalab.github.io/hp-sample/page/system-analysis">system analisys</a>
+                
+                  <a href="https://watalab.github.io/hp-sample/page/cfd">CFD</a>
                 
               </div>
             </li>
@@ -163,25 +163,56 @@
 
 <p>本研究室ではCFD (Computational Fluid Dynamics 数値流体力学）のコードを用いて、様々な流動の研究を実施しています。</p>
 
-<h1 id="レベルセット法を用いた浮遊液滴の数値解析">レベルセット法を用いた浮遊液滴の数値解析</h1>
+<h2 id="浮遊液滴の回転振動挙動">浮遊液滴の回転振動挙動</h2>
 
-<p>近年、液滴を静電場や超音波によって浮遊させる浮遊液滴技術を、高融点材料の非接触熱物性測定や、分析化学におけるサンプルの前処理等へ応用する事が期待されています。しかし、液滴界面の大変形や液滴内外の複雑な流動場形成などの非線形挙動が現れるため、技術の確立には更なる研究が要されています。</p>
+<p>地上で液滴を浮遊させるためには、何らかの外力が必要となりますが、液滴の挙動にはその影響が現れます。超音波を利用する手法では、圧力定在波の節の位置に液滴が保持されることを利用しますが、表面近傍の薄い層には、周囲と位相の異なる流れが誘起されることがわかりました［1］。Fig.1は、超音波の1周期の間での表面近傍の流れの変化を示したもので、左側の青い部分が液滴内部、右側の赤い部分が周囲の気体です。表面流は時間帯によっては、周囲の流れに対し逆流になっていることがわかります。</p>
 
-<p>本研究室では、Level-set法を用いた二相流数値解析によって、浮遊液滴に見られる複雑な挙動を明らかにする事を目的としています。</p>
+<p>Fig.2は、回転により形状が変化する様子を示したものですが、アレイ状になってからの回転数と伸びの関係は実験で得られているものとよく一致することがわかりました [2]。</p>
+
+<table>
+<thead>
+<tr>
+<th><img src="https://watalab.github.io/hp-sample/img/Fig7.png" alt="Fig.1" title="Fig.1 Analysis of levitated liquid droplet: Surface flow on droplet in acoustic standing wave" /></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Fig.1 Analysis of levitated liquid droplet: Surface flow on droplet in acoustic standing wave</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th><img src="https://watalab.github.io/hp-sample/img/Fig8.png" alt="Fig.2" title="Fig.2 Analysis of levitated liquid droplet: Shape variation of rotating droplet" /></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Fig.2 Analysis of levitated liquid droplet: Shape variation of rotating droplet</td>
+</tr>
+</tbody>
+</table>
 
 <p><img src="https://watalab.github.io/hp-sample/img/drop.png" alt="液滴" /></p>
 
-<h1 id="ptsの数値解析">PTSの数値解析</h1>
+<h2 id="ptsの数値解析">PTSの数値解析</h2>
 
 <p>原子炉において何らかの事故が発生し、高温高圧条件下にある圧力容器に非常用冷却水が注水されることで発生する熱衝撃をPTS (Pressurised Thermal Shock)と言います。PTSによって圧力容器壁面上のクラックに引張応力が作用した時、圧力容器が破損する事が懸念されます。</p>
 
 <p>本研究室では、健全性評価のための構造解析に必要な温度分布を、DESと呼ばれる乱流モデルを用いた熱水力数値解析をによって、比較的高精度・低コストで求める事を目的としています。</p>
 
-<h1 id="過熱ジェットによる加熱の輻射モデルの影響検討">過熱ジェットによる加熱の輻射モデルの影響検討</h1>
+<h2 id="過熱ジェットに対する輻射モデルの影響検討">過熱ジェットに対する輻射モデルの影響検討</h2>
 
 <p>原子炉の過酷事故（シビアアクシデント）時には高温の蒸気が噴出することが考えられます。本解析では高温の過熱ジェットによる周囲の気体の加熱に対する輻射の影響を検討しました。下図は解析によって得られた温度分布を示しています。</p>
 
 <p><img src="https://watalab.github.io/hp-sample/img/T-cont.jpg" alt="輻射" /></p>
+
+<p>[1] T. Watanabe, ”Numerical Simulation of oscillating flow field including a droplet,” Int. J. Multiphysics, 7(2013)19-30.
+[2] T. Watanabe, ”Deformation of a rotating two-lobed droplet,” Int. J. Mathematical Models and Methods in Applied Sciences, 10(2016)179-184.</p>
 
         
       </div>
@@ -224,7 +255,7 @@
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.39</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.30.2</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

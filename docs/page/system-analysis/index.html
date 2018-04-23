@@ -17,7 +17,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Wata Lab." />
 
-  <meta name="generator" content="Hugo 0.39" />
+  <meta name="generator" content="Hugo 0.30.2" />
   <link rel="canonical" href="https://watalab.github.io/page/system-analysis/" />
   <link rel="alternate" href="https://watalab.github.io/index.xml" type="application/rss+xml" title="Wata Lab.">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -74,9 +74,9 @@
               <a class="navlinks-parent" href="javascript:void(0)">Research</a>
               <div class="navlinks-children">
                 
-                  <a href="https://watalab.github.io/hp-sample/page/cfd">CFD</a>
-                
                   <a href="https://watalab.github.io/hp-sample/page/system-analysis">system analisys</a>
+                
+                  <a href="https://watalab.github.io/hp-sample/page/cfd">CFD</a>
                 
               </div>
             </li>
@@ -159,7 +159,60 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
 
-<h1 id="システム解析">システム解析</h1>
+<h1 id="原子炉事故時の熱水力挙動">原子炉事故時の熱水力挙動</h1>
+
+<p>代表的な安全解析コードであるTRACを用いた電源喪失事故の解析では、炉心溶融までの熱水力挙動を、よく再現できることを示し、運転員操作のタイミングや時間余裕の検討を行いました［1］。これに基づき、格納容器内の圧力上昇についての検討を進め、外部からの冷却と破損による格納容器からの漏洩の影響について明らかにしました［2］。Fig.1は、格納容器の圧力変化を示したものですが、漏洩と冷却のいずれを仮定しても圧力上昇は緩やかになること、炉内の熱流動現象には大きな影響を及ぼさないこと等がわかりました。</p>
+
+<p>Fig.2は、蒸気発生器伝熱管破断事故の際の低温側配管での注入水による温度低下を、安全解析コードRELAP5により調べたものです[4]。ここでは、低温側配管と同時に上部プレナムに注入する効果を調べており、ベースケースでは両方有り、ケースIでは、配管のみ、ケースIIでは、両方無し、ケースIIIでは、上部プレナム分を配管に上乗せして注入、という条件を検討しています。この解析により、上部プレナム注入の効果が小さいこと、配管注入のみで、温度は大きく低下することなどが明らかになりました。</p>
+
+<table>
+<thead>
+<tr>
+<th><img src="https://watalab.github.io/hp-sample/img/Fig1.png" alt="Fig.1" title="Fig.1 Analysis of station blackout accident: Containment pressure" /></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Fig.1 Analysis of station blackout accident: Containment pressure</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th><img src="https://watalab.github.io/hp-sample/img/Fig2.png" alt="Fig.2" title="Fig. 2  Analysis of steam generator tube rupture accident: Cold-leg fluid temperature in broken loop" /></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Fig. 2  Analysis of steam generator tube rupture accident: Cold-leg fluid temperature in broken loop</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="蒸気発生器での自然循環挙動">蒸気発生器での自然循環挙動</h1>
+
+<p>Fig.3は、RELAP5によって得られたループ流動の解析結果を境界条件として行った三次元流動解析の結果の一部で、伝熱管群の入り口付近の温度分布と速度ベクトルを示したものです。ループ全体では自然循環が成立している条件でも、一部の伝熱管で逆流や停滞が起こることが確認され、また、細い伝熱管の内部に上昇流と下降流が同時に現れることもわかりました。自然循環の安定性は、これまで考えられていたような、管毎の単純な順流、逆流現象ではなく、複雑な流動現象であることが明らかになりました。</p>
+
+<table>
+<thead>
+<tr>
+<th><img src="https://watalab.github.io/hp-sample/img/Fig6.png" alt="Fig.3" title="Fig. 3 Analysis of steam generator flow instability: Temperature and velocity distributions" /></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Fig. 3 Analysis of steam generator flow instability: Temperature and velocity distributions</td>
+</tr>
+</tbody>
+</table>
+
+<p>[1] 渡辺他、”BWR全電源喪失事故の解析　福島第1発電所2号機における炉心損傷までの熱水力挙動”、日本原子力学会和文論文誌、10 (2011) 240-244.
+[2] T. Watanabe, et al., “Analysis of BWR long-term station blackout accident using TRAC-BF1,” Annals of Nucl. Energy, 49 (2012) 223-226.</p>
 
         
       </div>
@@ -202,7 +255,7 @@
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.39</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.30.2</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>
