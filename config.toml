@@ -1,0 +1,122 @@
+#baseurl = "http://www.rine.u-fukui.ac.jp/watanabe/"
+baseurl = "https://watalab.github.io/hp-sample/"
+
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "Wata Lab."
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = false
+pygmentCodeFences = false
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+#docs以下を公開用にする
+publishdir = "docs"
+
+#相対パスを有効にする
+canonifyurls = true
+
+[Params]
+#  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "福井大学附属国際原子力工学研究所原子炉熱水力部門"
+#  logo = "img/logo.png"
+#  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+#  dateFormat = "April 18, 2017"
+  commit = false
+  rss = false
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "(c) 2018 渡辺研究室"
+  email = "ishigaki@u-fukui.ac.jp"
+#  facebook = "username"
+#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "watalab"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "Member"
+    name = "Member"
+    weight = 2
+
+[[menu.main]]
+    parent = "Member"
+    name = "2018"
+    url = "/page/member2018"
+    weight = 1
+
+[[menu.main]]
+    parent = "Member"
+    name = "OB/OG"
+    url = "/page/OBOG"
+    weight = 2
+
+[[menu.main]]
+    parent = "Member"
+    name = "Recruit"
+    url = "/page/recruit"
+    weight = 3
+
+
+[[menu.main]]
+    identifier = "Research"
+    name = "Research"
+    weight = 3
+
+[[menu.main]]
+    parent = "Research"
+    name = "CFD"
+    url = "/page/CFD"
+    weight = 2
+
+[[menu.main]]
+    parent = "Research"
+    name = "system analisys"
+    url = "/page/system-analysis"
+    weight = 1
+
+
+[[menu.main]]
+    name = "Paper"
+    url = "/paper"
+    weight = 4
+
+
+[[menu.main]]
+    name = "Link"
+    url = "/link"
+    weight = 5
+
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 6
