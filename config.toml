@@ -120,3 +120,8 @@ canonifyurls = true
     name = "Tags"
     url = "/tags"
     weight = 6
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 7

@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</managingEditor>
     <webMaster>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</webMaster>
-    <lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://watalab.github.io/hp-sample/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugoによるホームページの作成</title>
+      <link>https://watalab.github.io/hp-sample/post/2018-04-24-hugo/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
+      <guid>https://watalab.github.io/hp-sample/post/2018-04-24-hugo/</guid>
+      <description>Hugoとは このホームページはHugoというツールを使って作成してます。 Hugo
+Webサイトにのせたい文章をMarkdownで書いて保存。そのMarkdownのファイルをhugoで処理するとhtmlファイルやCSSファイルが生成されます。
+特徴として
+ 処理が早い テンプレートが豊富  などがあります。
+Hugoのインストールの詳細はこことか参考になります。 [2016年春版]　静的サイトジェネレーターHugo導入Tips　①インストールとサイトの初期作成
+渡辺研のホームページのデータ 渡辺研のHPのデータは下記にあります。
+https://github.com/watalab/hp-sample
+gitを使って、ファイルをクローンして更新してもらうほうがいいですが、gitの使い方をマスターする必要があります。それは大変なので、ファイル一式をZIPでダウンロードして、更新してください。</description>
+    </item>
     
     <item>
       <title>二相流可視化実験</title>
@@ -43,6 +59,16 @@ Fig.2は、回転により形状が変化する様子を示したものですが
 本研究室では、健全性評価のための構造解析に必要な温度分布を、DESと呼ばれる乱流モデルを用いた熱水力数値解析をによって、比較的高精度・低コストで求める事を目的としています。
 過熱ジェットに対する輻射モデルの影響検討 原子炉の過酷事故（シビアアクシデント）時には高温の蒸気が噴出することが考えられます。本解析では高温の過熱ジェットによる周囲の気体の加熱に対する輻射の影響を検討しました。下図は解析によって得られた温度分布を示しています。
 [1] T. Watanabe, ”Numerical Simulation of oscillating flow field including a droplet,” Int.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://watalab.github.io/hp-sample/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
+      <guid>https://watalab.github.io/hp-sample/contact/</guid>
+      <description>研究室見学はいつでもご気軽にお越し下さい。
+連絡はishigaki@u-fukui (後ろに.ac.jpをつけて) までよろしくお願いします。</description>
     </item>
     
     <item>

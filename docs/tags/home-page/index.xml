@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Wata Lab.</title>
-    <link>https://watalab.github.io/hp-sample/post/</link>
-    <description>Recent content in Posts on Wata Lab.</description>
+    <title>Home Page on Wata Lab.</title>
+    <link>https://watalab.github.io/hp-sample/tags/home-page/</link>
+    <description>Recent content in Home Page on Wata Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</managingEditor>
     <webMaster>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</webMaster>
     <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://watalab.github.io/hp-sample/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://watalab.github.io/hp-sample/tags/home-page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,24 +26,6 @@ Hugoのインストールの詳細はこことか参考になります。 [2016�
 渡辺研のホームページのデータ 渡辺研のHPのデータは下記にあります。
 https://github.com/watalab/hp-sample
 gitを使って、ファイルをクローンして更新してもらうほうがいいですが、gitの使い方をマスターする必要があります。それは大変なので、ファイル一式をZIPでダウンロードして、更新してください。</description>
-    </item>
-    
-    <item>
-      <title>二相流可視化実験</title>
-      <link>https://watalab.github.io/hp-sample/post/2018-04-19-experiment/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
-      <guid>https://watalab.github.io/hp-sample/post/2018-04-19-experiment/</guid>
-      <description>沸騰実験 学生実験として，加熱ピンによる沸騰可視化の実験を行いました。その様子が以下です。</description>
-    </item>
-    
-    <item>
-      <title>2018年度前期ゼミ予定</title>
-      <link>https://watalab.github.io/hp-sample/post/2018-04-18-seminar/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
-      <guid>https://watalab.github.io/hp-sample/post/2018-04-18-seminar/</guid>
-      <description> 時間：毎週木曜4限 場所：第3講義室  </description>
     </item>
     
   </channel>
