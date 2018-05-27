@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</managingEditor>
     <webMaster>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</webMaster>
-    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://watalab.github.io/hp-sample/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,17 +15,28 @@
     <item>
       <title>Hugoによるホームページの作成</title>
       <link>https://watalab.github.io/hp-sample/post/2018-04-24-hugo/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
       <guid>https://watalab.github.io/hp-sample/post/2018-04-24-hugo/</guid>
       <description>Hugoとは このホームページはHugoというツールを使って作成してます。 Hugo
-Webサイトにのせたい文章をMarkdownで書いて保存。そのMarkdownのファイルをhugoで処理するとhtmlファイルやCSSファイルが生成されます。
+Webサイトにのせたい文章をMarkdownで書いて保存。そのMarkdownのファイルをhugoで処理するとhtmlファイルやCSSファイルが生成されます。フォルダでいうと，docs以下の一式がホームページ用の内容です。
 特徴として
  処理が早い テンプレートが豊富  などがあります。
 Hugoのインストールの詳細はこことか参考になります。 [2016年春版]　静的サイトジェネレーターHugo導入Tips　①インストールとサイトの初期作成
-渡辺研のホームページのデータ 渡辺研のHPのデータは下記にあります。
-https://github.com/watalab/hp-sample
-gitを使って、ファイルをクローンして更新してもらうほうがいいですが、gitの使い方をマスターする必要があります。それは大変なので、ファイル一式をZIPでダウンロードして、更新してください。</description>
+書き方の例 Hugoのための原稿は以下のような感じ。下記内容を拡張子.mdとしたテキストファイルとして, content/post以下に保存します。 dateとtitleは必須。
+--- title: Hugoによるホームページの作成 date: 2018-04-24 tags: [&amp;quot;hugo&amp;quot;, &amp;quot;home page&amp;quot;] --- # Hugoとは このホームページはHugoというツールを使って作成してます。 [Hugo](https://gohugo.io) Webサイトにのせたい文章をMarkdownで書いて保存。そのMarkdownのファイルをhugoで処理するとhtmlファイルやCSSファイルが生成されます。 特徴として - 処理が早い - テンプレートが豊富 などがあります。 Hugoのインストールの詳細はこことか参考になります。 [[2016年春版]　静的サイトジェネレーターHugo導入Tips　①インストールとサイトの初期作成](https://qiita.com/Nimimal/items/ea860ebfb1214aacaf43)  Markdown Markdownで原稿は書きます。見た目を整形するためのいくつかの例。
+# 大見出し ## 中見出し ### 小見出し タイトルには#をつけます。#の数で大きさが変わります。 ## 箇条書きは-で並べる。 - 1つめ - 2つ目 - 3つ目 ## 番号付き箇条書きは数字.で並べる。 1. A 2. B 3. C ## ソースコード書くとき。```で囲みます。 ```fortran do i=1, nmax j=i+1 enddo ```　## 数式 $$ \frac{1}{m+1} $$  上の例を実際にMarkdownにして書いたときが以下。</description>
+    </item>
+    
+    <item>
+      <title>2018年院試説明会</title>
+      <link>https://watalab.github.io/hp-sample/post/2018-05-01/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <author>ishigaki@u-fukui.ac.jp ((c) 2018 渡辺研究室)</author>
+      <guid>https://watalab.github.io/hp-sample/post/2018-05-01/</guid>
+      <description>博士前期課程の入試説明会 5月19日（土）の13時半から入試説明会を敦賀キャンパスで実施します。
+詳細は以下をご確認ください。
+http://www.rine.u-fukui.ac.jp/kougaku/new-k/archives/5</description>
     </item>
     
     <item>
